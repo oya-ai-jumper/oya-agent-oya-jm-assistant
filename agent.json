@@ -160,11 +160,6 @@
       "is_active": true
     },
     {
-      "platform": "slack",
-      "name": "Slack \u2014 Jumper Media",
-      "is_active": true
-    },
-    {
       "platform": "jira",
       "name": "Jira \u2014 jumper-media",
       "is_active": true
